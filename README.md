@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Voice Command Based AI Assistant
 
 A Python-based AI assistant that listens to voice commands and executes system tasks offline.
@@ -44,3 +45,7 @@ A Python-based AI assistant that listens to voice commands and executes system t
 - `speaker.py`: TTS output.
 - `intent_engine.py`: NLP logic.
 - `actions.py`: Task execution functions.
+=======
+# Voice-Command-Based-AI-Assistant
+ml project
+>>>>>>> 6e2564a122cf011757093050e2d8da0b29b2795e
